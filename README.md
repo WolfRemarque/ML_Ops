@@ -1,4 +1,4 @@
-# MLOps Course: Medical Image Classification
+# MLOps UvA Bachelor AI Course: Medical Image Classification Skeleton Code
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 ![Build Status](https://github.com/yourusername/mlops_course/actions/workflows/ci.yml/badge.svg)
@@ -9,6 +9,8 @@ A repo exemplifying **MLOps best practices**: modularity, reproducibility, autom
 This project implements a standardized workflow for training neural networks on medical data (PCAM/TCGA). 
 
 The idea is that you fill in the repository with the necessary functions so you can execute the ```train.py``` function. Please also fill in this ```README.md``` clearly to setup, install and run your code. 
+
+Don't forget to setup CI and linting!
 
 ---
 
